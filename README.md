@@ -1,4 +1,4 @@
-# 📦 Springfield PO Extractor
+# 📦 A.I Powered PO Extractor
 
 > **AI-powered Purchase Order extraction tool** — Upload Springfield / Eurofiel Confeccion PDFs and instantly get a structured, formatted Excel summary with full size breakdowns, destinations, and auto-calculated totals.
 
@@ -157,12 +157,6 @@ npm run dev
 3. Commit your changes: `git commit -m 'Add amazing feature'`
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
